@@ -10,7 +10,11 @@ export default function Page() {
 					Download Content as SVG
 				</p>
 			</header>
-			<main></main>
+			<main>
+                <button>
+                    +
+                </button>
+            </main>
 			<footer></footer>
 		</>
 	);
